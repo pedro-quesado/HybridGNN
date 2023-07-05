@@ -6,7 +6,7 @@ In this work, we propose a hybrid approach that incorporates different graph-bas
 
 Furthermore, we conduct extensive experiments on multiple benchmark datasets to demonstrate that our hybrid approach significantly outperforms the state-of-the-art graph-based models.
 
-![ScreenShot](Figures/Model_Architecture.png?raw=true)
+![ScreenShot](Figures/Model_Architecture.PNG?raw=true)
 
 This repository provides the source code and datasets for the proposed work.
 
