@@ -1,5 +1,4 @@
-## A Hybrid GNN Approach for Improved Molecular
-Property Prediction
+## A Hybrid GNN Approach for Improved Molecular Property Prediction
 
 
 In this work, we propose a hybrid approach that incorporates different graph-based methods to combine their strengths and mitigate their limitations to accurately predict molecular properties. The proposed approach consists in a multi-layered hybrid GNN architecture that integrates multiple GNN frameworks to compute graph embeddings for molecular property prediction. 
